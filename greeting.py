@@ -4,7 +4,7 @@ def greet_user(first_name, last_name):
 
 
 print('Start')
-greet_user('Jerry', first_name='Luo')
+greet_user('Jerry', 'Luo')
 #greet_user('Mary')
 
 print('Finish')
